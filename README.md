@@ -4,7 +4,7 @@ This is a solution to the [NFT Preview Card Component challenge](https://www.fro
 
 ## Live Demo
 
-- [View Live Site](https://Daemi00.github.io/nft-preview-card-component/) (Update this with your actual GitHub Pages link)
+- [View Live Site](https://Daemi00.github.io/nft-preview-card-component/) 
 
 ## Screenshot
 
